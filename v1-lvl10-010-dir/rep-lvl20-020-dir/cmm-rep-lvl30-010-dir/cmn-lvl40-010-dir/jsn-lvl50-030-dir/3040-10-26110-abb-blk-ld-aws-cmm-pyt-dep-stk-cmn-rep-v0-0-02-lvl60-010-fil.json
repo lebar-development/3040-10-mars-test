@@ -1,0 +1,196 @@
+{
+  "v1-lvl10-010-dir": {
+    "leg-lvl20-010-dir": {
+      "3040-10-5100-all-leg-ld-aws-lvl30-010-dir": {
+        "ere-lvl40-010-dir": {
+          "3040-10-5115-mcr-msv-ld-aws-lvl50-010-dir": {
+            "net-lvl60-010-dir": "3040-10-5115-mcr-msv-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-020-dir": "3040-10-5115-mcr-msv-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-030-dir": "3040-10-5115-mcr-msv-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-040-dir": "3040-10-5115-mcr-msv-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          }
+        },
+        "mre-lvl40-020-dir": {
+          "3040-10-5105-scr-pol-ld-aws-lvl50-010-dir": {
+            "cfg-lvl60-010-dir": "3040-10-5105-scr-pol-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "3040-10-5105-scr-pol-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "3040-10-5105-scr-pol-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "3040-10-5105-scr-pol-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "3040-10-5105-scr-pol-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "3040-10-5105-scr-pol-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "3040-10-5105-scr-pol-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          },
+          "3040-10-5110-pcr-rol-ld-aws-lvl50-020-dir": {
+            "cfg-lvl60-010-dir": "3040-10-5110-pcr-rol-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "3040-10-5110-pcr-rol-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "3040-10-5110-pcr-rol-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "3040-10-5110-pcr-rol-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "3040-10-5110-pcr-rol-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "3040-10-5110-pcr-rol-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "3040-10-5110-pcr-rol-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          }
+        },
+        "stk-lvl40-030-dir": "3040-10-5100-all-leg-ld-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
+      },
+      "3040-10-5200-bll-leg-ld-aws-lvl30-020-dir": {
+        "mre-lvl40-010-dir": {
+          "3040-10-5205-fcr-pol-ld-aws-lvl50-010-dir": {
+            "cfg-lvl60-010-dir": "3040-10-5205-fcr-pol-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "3040-10-5205-fcr-pol-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "3040-10-5205-fcr-pol-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "3040-10-5205-fcr-pol-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "3040-10-5205-fcr-pol-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "3040-10-5205-fcr-pol-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "3040-10-5205-fcr-pol-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          },
+          "3040-10-5210-ccr-rol-ld-aws-lvl50-020-dir": {
+            "cfg-lvl60-010-dir": "3040-10-5210-ccr-rol-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "3040-10-5210-ccr-rol-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "3040-10-5210-ccr-rol-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "3040-10-5210-ccr-rol-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "3040-10-5210-ccr-rol-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "3040-10-5210-ccr-rol-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "3040-10-5210-ccr-rol-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          },
+          "3040-10-5215-jcr-sec-ld-aws-lvl50-030-dir": {
+            "cfg-lvl60-010-dir": "3040-10-5215-jcr-sec-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "3040-10-5215-jcr-sec-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "3040-10-5215-jcr-sec-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "3040-10-5215-jcr-sec-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "3040-10-5215-jcr-sec-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "3040-10-5215-jcr-sec-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "3040-10-5215-jcr-sec-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          }
+        },
+        "stk-lvl40-020-dir": "3040-10-5200-bll-leg-ld-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
+      },
+      "3040-10-5300-cll-leg-ld-aws-lvl30-030-dir": {
+        "ere-lvl40-010-dir": {
+          "3040-10-5320-jcr-msv-ld-aws-lvl50-010-dir": {
+            "net-lvl60-010-dir": "3040-10-5320-jcr-msv-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-020-dir": "3040-10-5320-jcr-msv-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-030-dir": "3040-10-5320-jcr-msv-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-040-dir": "3040-10-5320-jcr-msv-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          }
+        },
+        "mre-lvl40-020-dir": {
+          "3040-10-5305-pcr-pol-ld-aws-lvl50-010-dir": {
+            "cfg-lvl60-010-dir": "3040-10-5305-pcr-pol-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "3040-10-5305-pcr-pol-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "3040-10-5305-pcr-pol-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "3040-10-5305-pcr-pol-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "3040-10-5305-pcr-pol-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "3040-10-5305-pcr-pol-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "3040-10-5305-pcr-pol-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          },
+          "3040-10-5310-mcr-rol-ld-aws-lvl50-020-dir": {
+            "cfg-lvl60-010-dir": "3040-10-5310-mcr-rol-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "3040-10-5310-mcr-rol-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "3040-10-5310-mcr-rol-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "3040-10-5310-mcr-rol-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "3040-10-5310-mcr-rol-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "3040-10-5310-mcr-rol-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "3040-10-5310-mcr-rol-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          },
+          "3040-10-5315-scr-sec-ld-aws-lvl50-030-dir": {
+            "cfg-lvl60-010-dir": "3040-10-5315-scr-sec-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "3040-10-5315-scr-sec-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "3040-10-5315-scr-sec-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "3040-10-5315-scr-sec-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "3040-10-5315-scr-sec-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "3040-10-5315-scr-sec-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "3040-10-5315-scr-sec-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          }
+        },
+        "stk-lvl40-030-dir": "3040-10-5300-cll-leg-ld-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
+      },
+      "3040-10-5400-dll-leg-ld-aws-lvl30-040-dir": {
+        "mre-lvl40-010-dir": {
+          "3040-10-5405-fcr-pol-ld-aws-lvl50-010-dir": {
+            "cfg-lvl60-010-dir": "3040-10-5405-fcr-pol-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "3040-10-5405-fcr-pol-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "3040-10-5405-fcr-pol-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "3040-10-5405-fcr-pol-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "3040-10-5405-fcr-pol-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "3040-10-5405-fcr-pol-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "3040-10-5405-fcr-pol-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          },
+          "3040-10-5410-ccr-rol-ld-aws-lvl50-020-dir": {
+            "cfg-lvl60-010-dir": "3040-10-5410-ccr-rol-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "3040-10-5410-ccr-rol-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "3040-10-5410-ccr-rol-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "3040-10-5410-ccr-rol-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "3040-10-5410-ccr-rol-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "3040-10-5410-ccr-rol-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "3040-10-5410-ccr-rol-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          },
+          "3040-10-5415-jcr-sec-ld-aws-lvl50-030-dir": {
+            "cfg-lvl60-010-dir": "3040-10-5415-jcr-sec-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "3040-10-5415-jcr-sec-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "3040-10-5415-jcr-sec-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "3040-10-5415-jcr-sec-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "3040-10-5415-jcr-sec-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "3040-10-5415-jcr-sec-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "3040-10-5415-jcr-sec-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          }
+        },
+        "stk-lvl40-020-dir": "3040-10-5400-dll-leg-ld-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
+      },
+      "3040-10-5500-ell-leg-ld-aws-lvl30-050-dir": {
+        "ere-lvl40-010-dir": {
+          "3040-10-5515-ccr-msv-ld-aws-lvl50-010-dir": {
+            "net-lvl60-010-dir": "3040-10-5515-ccr-msv-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-020-dir": "3040-10-5515-ccr-msv-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-030-dir": "3040-10-5515-ccr-msv-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-040-dir": "3040-10-5515-ccr-msv-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          }
+        },
+        "mre-lvl40-020-dir": {
+          "3040-10-5505-jcr-pol-ld-aws-lvl50-010-dir": {
+            "cfg-lvl60-010-dir": "3040-10-5505-jcr-pol-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "3040-10-5505-jcr-pol-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "3040-10-5505-jcr-pol-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "3040-10-5505-jcr-pol-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "3040-10-5505-jcr-pol-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "3040-10-5505-jcr-pol-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "3040-10-5505-jcr-pol-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          },
+          "3040-10-5510-fcr-rol-ld-aws-lvl50-020-dir": {
+            "cfg-lvl60-010-dir": "3040-10-5510-fcr-rol-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "3040-10-5510-fcr-rol-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "3040-10-5510-fcr-rol-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "3040-10-5510-fcr-rol-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "3040-10-5510-fcr-rol-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "3040-10-5510-fcr-rol-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "3040-10-5510-fcr-rol-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          }
+        },
+        "stk-lvl40-030-dir": "3040-10-5500-ell-leg-ld-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
+      },
+      "3040-10-5600-fll-leg-ld-aws-lvl30-060-dir": {
+        "mre-lvl40-010-dir": {
+          "3040-10-5605-fcr-pol-ld-aws-lvl50-010-dir": {
+            "cfg-lvl60-010-dir": "3040-10-5605-fcr-pol-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "3040-10-5605-fcr-pol-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "3040-10-5605-fcr-pol-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "3040-10-5605-fcr-pol-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "3040-10-5605-fcr-pol-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "3040-10-5605-fcr-pol-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "3040-10-5605-fcr-pol-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          },
+          "3040-10-5610-ccr-rol-ld-aws-lvl50-020-dir": {
+            "cfg-lvl60-010-dir": "3040-10-5610-ccr-rol-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "3040-10-5610-ccr-rol-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "3040-10-5610-ccr-rol-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "3040-10-5610-ccr-rol-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "3040-10-5610-ccr-rol-ld-aws-dep-rmt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "3040-10-5610-ccr-rol-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "3040-10-5610-ccr-rol-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          }
+        },
+        "stk-lvl40-020-dir": "3040-10-5600-fll-leg-ld-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
+      }
+    },
+    "stk-lvl20-020-dir": "3040-10-26110-abb-blk-ld-aws-cmm-dep-stk-v0-0-01-lvl30-010-fil.py"
+  }
+}
